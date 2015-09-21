@@ -5,6 +5,19 @@
   "description": "Display your essentials links in Atom's status bar.",
   "license": "MIT",
   "private": true,
+  "author": {
+    "name": "Pedro J. Parra Cantero",
+    "email": "pedroparra.correo@gmail.com",
+    "url": "http://pedrojparra.es"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroparra/atom-hyperlinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pedroparra/atom-hyperlinks/issues"
+  },
+  "homepage": "https://github.com/pedroparra/atom-hyperlinks#readme",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
