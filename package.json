@@ -1,7 +1,7 @@
 {
   "name": "atom-hyperlinks",
   "main": "./lib/atom-hyperlinks",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Display your essentials links in Atom's status bar.",
   "license": "MIT",
   "private": true,
