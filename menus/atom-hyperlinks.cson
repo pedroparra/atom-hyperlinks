@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'atom-hyperlinks'
+      'submenu': [
+        {
+          'label': 'Configuration'
+          'command': 'atom-hyperlinks:showConfig'
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "name": "atom-hyperlinks",
+  "main": "./lib/atom-hyperlinks",
+  "version": "0.0.1",
+  "description": "Display your essentials links in the status bar.",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "keywords": [
+    "hyperlinks",
+    "hyperlink",
+    "links",
+    "link",
+    "bookmarks"
+  ],
+  "dependencies": {
+    "event-kit": "^1.2.0"
+  },
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "envs": [
+      "node",
+      "browser",
+      "jasmine"
+    ],
+    "globals": [
+      "atom",
+      "waitsForPromise"
+    ],
+    "ignores": [
+      "fixture*"
+    ]
+  }
+}
