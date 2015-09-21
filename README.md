@@ -18,7 +18,7 @@ An array of your essentials links.
 
 ## Coming Soon
 
-### v0.1.0
+### v0.2.0
 - Add tooltips to links.
 - Default icon if favicon not found.
 - Select right or left position.
