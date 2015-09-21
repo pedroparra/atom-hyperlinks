@@ -1,4 +1,4 @@
-# Atom Hyperlinks
+# Atom Hyperlinks [![Build Status](https://travis-ci.org/pedroparra/atom-hyperlinks.svg?branch=master)](https://travis-ci.org/pedroparra/atom-hyperlinks)
 A package to display your essentials links in Atom's status bar. Build width ecmascript6.
 ![Atom Hyperlinks Screenshot](http://res.cloudinary.com/duegraffic/image/upload/v1442858931/atom-hyperlinks_u4neg9.png)
 ## Installing
