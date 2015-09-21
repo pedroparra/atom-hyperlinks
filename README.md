@@ -1,5 +1,5 @@
 # Atom Hyperlinks
-A package to display your essentials links in the status bar. Build width ecmascript6.
+A package to display your essentials links in Atom's status bar. Build width ecmascript6.
 ![Atom Hyperlinks Screenshot](./atom-hyperlinks.png)
 ## Installing
 
