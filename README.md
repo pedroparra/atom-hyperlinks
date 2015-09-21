@@ -22,5 +22,6 @@ An array of your essentials links.
 - Add tooltips to links.
 - Default icon if favicon not found.
 - Select right or left position.
+
 ----
 Feel free to open an issue to discuss potential features to add or improve.
